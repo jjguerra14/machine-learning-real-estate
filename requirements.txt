@@ -1,0 +1,1 @@
+pip install pandas openpyxl scikit-learn catboost matplotlib  xgboost
