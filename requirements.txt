@@ -1,1 +1,10 @@
-pip install pandas openpyxl scikit-learn catboost matplotlib  xgboost
+pandas
+numpy
+openpyxl
+scikit-learn
+matplotlib
+xgboost
+catboost
+jupyter
+notebook
+ipykernel
